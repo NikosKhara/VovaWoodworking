@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf43f266.css",
+    "main.js": "/static/js/main.20f766be.js",
+    "static/media/wood-working-2385634-1.png": "/static/media/wood-working-2385634-1.46cfd806085c71a7e7b9.png",
+    "static/media/356392192___n-1.png": "/static/media/356392192_1032486871131406_1303385691663870325_n-1.1899c1e96beeec4c0828.png",
+    "static/media/wood-working-2385634-2.png": "/static/media/wood-working-2385634-2.fe78ae35b84bca1e167f.png",
+    "static/media/wood-working-2385634-3.png": "/static/media/wood-working-2385634-3.30e1004c2f5dcb8d5045.png",
+    "static/media/SS-KH_24MustHaveWoodworkingToolsForYourWorkshop_KH-HRO-1.png": "/static/media/SS-KH_24MustHaveWoodworkingToolsForYourWorkshop_KH-HRO-1.ea87960ebed8fac837ae.png",
+    "static/media/navbar-img.png": "/static/media/navbar-img.acfb0e59b44871c39f9a.png",
+    "index.html": "/index.html",
+    "main.cf43f266.css.map": "/static/css/main.cf43f266.css.map",
+    "main.20f766be.js.map": "/static/js/main.20f766be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf43f266.css",
+    "static/js/main.20f766be.js"
+  ]
+}
